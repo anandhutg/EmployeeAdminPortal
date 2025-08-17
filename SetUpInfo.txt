@@ -1,0 +1,11 @@
+prop -> properties
+ctor -> constructors
+
+view -> other windows -> Endpoints Explorer
+
+Tools -> NugetPackageManager -> NugetPackageManagerConsole
+
+PM> add-migration "initial-migration"
+
+PM> update-database
+
